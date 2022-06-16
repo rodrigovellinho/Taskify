@@ -7,7 +7,7 @@
 ## :rocket:
 
 <p align="center">
-  <img src="" alt="Taskify">
+  <img src="https://github.com/rodrigovellinho/Taskify/blob/master/public/cover.jpg?raw=true" alt="Taskify">
 </p>
 
 A aplicação é um gerenciador de tarefas. Funcionalidades:
